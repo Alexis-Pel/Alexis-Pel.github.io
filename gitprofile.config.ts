@@ -111,8 +111,20 @@ const CONFIG = {
     {
       institution: 'ESIEE-IT',
       degree: 'Master - Manager en ingénierie informatique',
-      from: '2013',
-      to: '2015',
+      from: '2023',
+      to: '2025',
+    },
+      {
+      institution: 'Coding Factory',
+      degree: 'Bachelor - Développeur chargé de projets en solutions pour mobiles et objets connectés',
+      from: '2022',
+      to: '2023',
+    },
+    {
+      institution: 'Coding Factory',
+      degree: 'Licence - Analyste Développeur application informatique',
+      from: '2020',
+      to: '2022',
     },
   ],
   publications: [],
