@@ -76,9 +76,45 @@ const CONFIG = {
     '.NET8',
     'Python',
   ],
-  experiences: [],
-  certifications: [],
-  educations: [],
+  experiences: [
+    {
+      company: 'Infotel',
+      position: 'Développeur Fullstack',
+      from: 'September 2025',
+      to: 'Present',
+      companyLink: '',
+    },
+    {
+      company: 'Infotel',
+      position: 'Développeur Fullstack (Alternance)',
+      from: 'September 2023',
+      to: 'August 2025',
+      companyLink: '',
+    },
+    {
+      company: 'Synalabs',
+      position: "Analyste Développeur d'applications informatiques (Alternance)",
+      from: 'September 2023',
+      to: 'August 2025',
+      companyLink: '',
+    },
+  ],
+  certifications: [
+    {
+      name: 'Business Entrepreneuriat International',
+      body: 'Université Laval',
+      year: 'July 2025',
+      link: '',
+    },
+  ],
+  educations: [
+    {
+      institution: 'ESIEE-IT',
+      degree: 'Master - Manager en ingénierie informatique',
+      from: '2013',
+      to: '2015',
+    },
+  ],
   publications: [],
   // Display articles from your medium or dev account. (Optional)
   blog: {
